@@ -63,6 +63,14 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
   <a href="https://github.com/Wilykun/ReadSwDika_WhiskeySockets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=ReadSwDika_WhiskeySockets&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="ReadSwDika_WhiskeySockets"/></a>
 </p>
 
+<p align="center">
+  <img width="70%" src="assets/bot-stats.svg" alt="Bot Dashboard"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="assets/journey.svg" alt="My Journey"/>
+</p>
+
 <img width="100%" src="assets/divider-anim.svg"/>
 
 <p align="center"><b>◈ GitHub Stats</b></p>
