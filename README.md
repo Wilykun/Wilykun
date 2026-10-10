@@ -24,7 +24,7 @@
   <a href="https://www.youtube.com/watch?v=KJYdOh0_Jbo"><img width="49%" src="assets/player-ed.svg" alt="Play ED Haiiro no Saga"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img width="100%" src="assets/divider-anim.svg"/>
 
 <p align="center"><b>♡ About Me ♡</b></p>
 
@@ -38,7 +38,11 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF6B9D&center=true&vCenter=true&width=700&lines=Aku%20Elaina%2C%20Penyihir%20Abu.;Pengelana%20yang%20berhenti%20mengembara%20bukanlah%20pengelana.;Dunia%20ini%20luas...%20aku%20ingin%20melihat%20semuanya.;Setiap%20perjalanan%20punya%20ceritanya%20sendiri." alt="Elaina quotes"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<p align="center">
+  <img width="70%" src="assets/now-card.svg" alt="Sedang Ngoprek"/>
+</p>
+
+<img width="100%" src="assets/divider-anim.svg"/>
 
 <p align="center"><b>✦ Skills</b></p>
 
@@ -46,7 +50,7 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,java,git,linux" alt="skills"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img width="100%" src="assets/divider-anim.svg"/>
 
 <p align="center"><b>◈ Pinned Projects</b></p>
 
@@ -59,7 +63,7 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
   <a href="https://github.com/Wilykun/ReadSwDika_WhiskeySockets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=ReadSwDika_WhiskeySockets&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="ReadSwDika_WhiskeySockets"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img width="100%" src="assets/divider-anim.svg"/>
 
 <p align="center"><b>◈ GitHub Stats</b></p>
 
@@ -71,7 +75,7 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilykun&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b9d" alt="top langs"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img width="100%" src="assets/divider-anim.svg"/>
 
 <p align="center"><b>◈ Contribution Snake</b></p>
 
@@ -81,7 +85,7 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
   <img alt="github contribution grid snake animation" src="assets/github-snake.svg"/>
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img width="100%" src="assets/divider-anim.svg"/>
 
 <details>
 <summary><b>◈ Elaina Gallery HD — klik untuk buka!</b></summary>
@@ -176,6 +180,12 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
 - Bot 24/7 di Pterodactyl / panel
 
 </details>
+
+<p align="center"><b>◈ Waifu Card</b></p>
+
+<p align="center">
+  <img width="70%" src="assets/waifu-card.svg" alt="Elaina waifu card"/>
+</p>
 
 <p align="center">
   <i>⋆｡‧˚ʚ♡ɞ˚‧｡⋆ thanks for visiting ⋆｡‧˚ʚ♡ɞ˚‧｡⋆</i>
