@@ -15,12 +15,49 @@
 </p>
 
 ### ♡ About Me ♡
+
+<p align="center">
+⛩️ Wibu garis keras — waifu: <b>Elaina</b> (Majo no Tabitabi)<br/>
+🔭 Ngoprek <b>bot WhatsApp & Telegram</b> • 🎮 Bikin game seru-seruan<br/>
+✨ Motto: <i>akurat, work, no bug</i>
+</p>
+
+### ✨ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,java,git,linux" alt="skills"/>
+</p>
+
+### 📌 Pinned Projects
+
+<p align="center">
   <a href="https://github.com/Wilykun/ReadSwEsm_V1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=ReadSwEsm_V1&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="ReadSwEsm_V1"/></a>
   <a href="https://github.com/Wilykun/Naruto-senki-8bit"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=Naruto-senki-8bit&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="Shinobi Senki 8-bit"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/Wilykun/NarutoSenki-V2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=NarutoSenki-V2&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="NarutoSenki-V2"/></a>
-  <a href="https://github.com/Wilykun/ReadSwDika_WhiskeySockets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=ReadSwDika_WhiskeySockets&theme=tokyonight&hide_border=true&title_color=ff6b9d&<details>
+  <a href="https://github.com/Wilykun/ReadSwDika_WhiskeySockets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=ReadSwDika_WhiskeySockets&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="ReadSwDika_WhiskeySockets"/></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wilykun&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Wilykun&theme=tokyonight&hide_border=true&ring=ff6b9d&fire=ff9ecd&currStreakLabel=ff6b9d" alt="streak"/>
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilykun&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b9d" alt="top langs"/>
+</p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="assets/github-snake.svg"/>
+</picture>
+
+<details>
 <summary><b>🖼️ Elaina Gallery HD — klik untuk buka!</b></summary>
 <br/>
 <p align="center">
@@ -37,6 +74,12 @@
   <img width="31%" src="assets/elaina-hd-7.jpg" alt="elaina 7"/>
   <img width="31%" src="assets/elaina-hd-8.jpg" alt="elaina 8"/>
   <img width="31%" src="assets/elaina-hd-9.jpg" alt="elaina 9"/>
+</p>
+<p align="center">
+  <img width="23%" src="assets/elaina-hd-10.jpg" alt="elaina 10"/>
+  <img width="23%" src="assets/elaina-hd-11.jpg" alt="elaina 11"/>
+  <img width="23%" src="assets/elaina-hd-12.jpg" alt="elaina 12"/>
+  <img width="23%" src="assets/elaina-hd-13.jpg" alt="elaina 13"/>
 </p>
 </details>
 
@@ -67,40 +110,4 @@
   <i>⋆｡‧˚ʚ♡ɞ˚‧｡⋆ thanks for visiting ⋆｡‧˚ʚ♡ɞ˚‧｡⋆</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>icon_color=ff9ecd" alt="ReadSwDika_WhiskeySockets"/></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wilykun&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Wilykun&theme=tokyonight&hide_border=true&ring=ff6b9d&fire=ff9ecd&currStreakLabel=ff6b9d" alt="streak"/>
-</p>
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilykun&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b9d" alt="top langs"/>
-</p>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="assets/github-snake.svg"/>
-</picture>
-
-
-<p align="center">
-⛩️ Wibu garis keras — waifu: <b>Elaina</b> (Majo no Tabitabi)<br/>
-🔭 Ngoprek <b>bot WhatsApp & Telegram</b> • 🎮 Bikin game seru-seruan<br/>
-✨ Motto: <i>akurat, work, no bug</i>
-</p>
-
-### ✨ Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,java,git,linux" alt="skills"/>
-</p>
-
-### 📌 Pinned Projects
-
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
