@@ -34,6 +34,10 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
 <i>⋆ akurat, work, no bug ⋆</i>
 </p>
 
+<p align="center">
+  <img width="70%" src="assets/quote-elaina.svg" alt="Elaina quote"/>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 <p align="center"><b>✦ Skills</b></p>
