@@ -85,6 +85,12 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
   <img alt="github contribution grid snake animation" src="assets/github-snake.svg"/>
 </picture>
 
+<p align="center"><b>◈ 3D Contribution Graph</b></p>
+
+<p align="center">
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</p>
+
 <img width="100%" src="assets/divider-anim.svg"/>
 
 <details>
