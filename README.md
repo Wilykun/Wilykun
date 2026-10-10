@@ -34,6 +34,13 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
 <i>⋆ akurat, work, no bug ⋆</i>
 </p>
 
+<p align="center"><b>◈ Connect With Me</b></p>
+
+<p align="center">
+  <a href="https://webnovamail.netlify.app/"><img src="https://img.shields.io/badge/Website-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/Wilykun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF6B9D&center=true&vCenter=true&width=700&lines=Aku%20Elaina%2C%20Penyihir%20Abu.;Pengelana%20yang%20berhenti%20mengembara%20bukanlah%20pengelana.;Dunia%20ini%20luas...%20aku%20ingin%20melihat%20semuanya.;Setiap%20perjalanan%20punya%20ceritanya%20sendiri." alt="Elaina quotes"/>
 </p>
