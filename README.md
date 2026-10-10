@@ -39,6 +39,7 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
 <p align="center">
   <a href="https://webnovamail.netlify.app/"><img src="https://img.shields.io/badge/Website-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/Wilykun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Wilykun/Wilykun/discussions"><img src="https://img.shields.io/badge/Guestbook-7C3AED?style=for-the-badge&logo=githubdiscussions&logoColor=white" alt="Guestbook"/></a>
 </p>
 
 <p align="center">
