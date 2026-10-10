@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wilykun&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=40" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Wilykun!;WhatsApp+%26+Telegram+Bot+Developer;Anime+%E2%80%A2+Gaming+%E2%80%A2+Coding;akurat+%E2%80%A2+work+%E2%80%A2+no+bug" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Wilykun!;Anime+%E2%80%A2+Gaming+%E2%80%A2+Fun+Stuff;akurat+%E2%80%A2+work+%E2%80%A2+no+bug" alt="typing"/>
 </p>
 
 <p align="center">
@@ -10,28 +10,18 @@
   <img src="https://komarev.com/ghpvc/?username=Wilykun&color=ff6b9d&style=flat-square&label=Profile+Views" alt="profile views"/>
 </p>
 
-<img align="right" width="260" src="assets/elaina.gif" alt="Elaina"/>
+### 🎲 Random Elaina-chan — ganti sendiri tiap 3 detik!
+
+<p align="center">
+  <img width="280" src="assets/elaina-slideshow.svg" alt="Elaina slideshow"/>
+</p>
 
 ### ♡ About Me ♡
 
-- 🔭 Lagi ngoprek **WhatsApp & Telegram bots** (Baileys / WhiskeySockets)
-- 🎮 Bikin game **Shinobi Senki 8-bit** — AI vs AI ninja battle
-- ⛩️ Anime lover — waifu: **Elaina** (Majo no Tabitabi)
-- ✨ Motto: *akurat, work, no bug*
-
-<br clear="right"/>
-
-### ✧ Tech Stack ✧
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<p align="center">
+🔭 Ngoprek <b>bot WhatsApp & Telegram</b> ⛩️ Wibu garis keras — waifu: <b>Elaina</b> (Majo no Tabitabi)<br/>
+🎮 Bikin game seru-seruan: <b>Shinobi Senki 8-bit</b> (AI vs AI ninja battle)<br/>
+✨ Motto: <i>akurat, work, no bug</i>
 </p>
 
 ### 📌 Pinned Projects
@@ -48,7 +38,7 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=Wilykun&theme=tokyonight&hide_border=true&ring=ff6b9d&fire=ff9ecd&currStreakLabel=ff6b9d" alt="streak"/>
 </p>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilykun&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b9d" alt="top langs"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilykun&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b9d" alt="top langs"/>
 </p>
 
 ### 🐍 Contribution Snake
@@ -60,25 +50,44 @@
 </picture>
 
 <details>
-<summary><b>🎀 More About Me — klik untuk buka!</b></summary>
+<summary><b>🖼️ Elaina Gallery — klik untuk buka!</b></summary>
 <br/>
-
-- 🌙 Night owl coder — ide terbaik datang tengah malam
-- 🎮 Gamer sekaligus game maker
-- ⛩️ Wibu garis keras (proud!)
-- 🐛 Standar: <i>akurat, work, no bug</i>
-- 🍜 Ditemani mie + musik pas ngoding
-
+<p align="center">
+  <img width="31%" src="assets/elaina-still-1.jpg" alt="elaina 1"/>
+  <img width="31%" src="assets/elaina-still-2.jpg" alt="elaina 2"/>
+  <img width="31%" src="assets/elaina-still-3.jpg" alt="elaina 3"/>
+</p>
+<p align="center">
+  <img width="31%" src="assets/elaina-still-4.jpg" alt="elaina 4"/>
+  <img width="31%" src="assets/elaina-still-5.jpg" alt="elaina 5"/>
+  <img width="31%" src="assets/elaina-still-6.jpg" alt="elaina 6"/>
+</p>
+<p align="center"><i>bonus versi GIF:</i><br/><img width="200" src="assets/elaina.gif" alt="elaina gif"/></p>
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Environment — klik untuk buka!</b></summary>
+<summary><b>✧ Tech Stack — klik untuk buka!</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</p>
+</details>
+
+<details>
+<summary><b>🎀 Fun Facts — klik untuk buka!</b></summary>
 <br/>
 
-- 💻 Ngoding di Replit & VS Code
-- 🐧 Linux enjoyer
-- 📱 Android modder (Naruto Senki!)
-- 🤖 Bot jalan 24/7 di Pterodactyl / panel
+- 🌙 Night owl — ide terbaik datang tengah malam
+- 🍜 Ditemani mie + musik pas ngoding
+- 🎮 Gamer sekaligus game maker
+- 🐛 Pemburu bug — standar: <i>no bug</i>
 
 </details>
 
