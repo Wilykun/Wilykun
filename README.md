@@ -10,25 +10,64 @@
   <img src="https://komarev.com/ghpvc/?username=Wilykun&color=ff6b9d&style=flat-square&label=Profile+Views" alt="profile views"/>
 </p>
 
-### 🎲 Random Elaina-chan — ganti sendiri tiap 3 detik!
-
 <p align="center">
-  <img width="280" src="assets/elaina-slideshow.svg" alt="Elaina slideshow"/>
+  <img width="300" src="assets/elaina-slideshow.svg" alt="Elaina"/>
 </p>
 
 ### ♡ About Me ♡
-
-<p align="center">
-🔭 Ngoprek <b>bot WhatsApp & Telegram</b> ⛩️ Wibu garis keras — waifu: <b>Elaina</b> (Majo no Tabitabi)<br/>
-🎮 Bikin game seru-seruan: <b>Shinobi Senki 8-bit</b> (AI vs AI ninja battle)<br/>
-✨ Motto: <i>akurat, work, no bug</i>
-</p>
-
-### 📌 Pinned Projects
-
-<p align="center">
   <a href="https://github.com/Wilykun/ReadSwEsm_V1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=ReadSwEsm_V1&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="ReadSwEsm_V1"/></a>
   <a href="https://github.com/Wilykun/Naruto-senki-8bit"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=Naruto-senki-8bit&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="Shinobi Senki 8-bit"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Wilykun/NarutoSenki-V2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=NarutoSenki-V2&theme=tokyonight&hide_border=true&title_color=ff6b9d&icon_color=ff9ecd" alt="NarutoSenki-V2"/></a>
+  <a href="https://github.com/Wilykun/ReadSwDika_WhiskeySockets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilykun&repo=ReadSwDika_WhiskeySockets&theme=tokyonight&hide_border=true&title_color=ff6b9d&<details>
+<summary><b>🖼️ Elaina Gallery HD — klik untuk buka!</b></summary>
+<br/>
+<p align="center">
+  <img width="31%" src="assets/elaina-hd-1.jpg" alt="elaina 1"/>
+  <img width="31%" src="assets/elaina-hd-2.jpg" alt="elaina 2"/>
+  <img width="31%" src="assets/elaina-hd-3.jpg" alt="elaina 3"/>
+</p>
+<p align="center">
+  <img width="31%" src="assets/elaina-hd-4.jpg" alt="elaina 4"/>
+  <img width="31%" src="assets/elaina-hd-5.jpg" alt="elaina 5"/>
+  <img width="31%" src="assets/elaina-hd-6.jpg" alt="elaina 6"/>
+</p>
+<p align="center">
+  <img width="31%" src="assets/elaina-hd-7.jpg" alt="elaina 7"/>
+  <img width="31%" src="assets/elaina-hd-8.jpg" alt="elaina 8"/>
+  <img width="31%" src="assets/elaina-hd-9.jpg" alt="elaina 9"/>
+</p>
+</details>
+
+<details>
+<summary><b>🎀 Fun Facts — klik untuk buka!</b></summary>
+<br/>
+
+- 🌙 Night owl — ide terbaik datang tengah malam
+- 🍜 Ditemani mie + musik pas ngoding
+- 🎮 Gamer sekaligus game maker
+- 🐛 Pemburu bug — standar: <i>no bug</i>
+- ⛩️ Elaina is my waifu, no debate
+
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Environment — klik untuk buka!</b></summary>
+<br/>
+
+- 💻 Replit & VS Code
+- 🐧 Linux enjoyer
+- 📱 Android modder
+- 🤖 Bot 24/7 di Pterodactyl / panel
+
+</details>
+
+<p align="center">
+  <i>⋆｡‧˚ʚ♡ɞ˚‧｡⋆ thanks for visiting ⋆｡‧˚ʚ♡ɞ˚‧｡⋆</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>icon_color=ff9ecd" alt="ReadSwDika_WhiskeySockets"/></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -49,50 +88,19 @@
   <img alt="github contribution grid snake animation" src="assets/github-snake.svg"/>
 </picture>
 
-<details>
-<summary><b>🖼️ Elaina Gallery — klik untuk buka!</b></summary>
-<br/>
-<p align="center">
-  <img width="31%" src="assets/elaina-still-1.jpg" alt="elaina 1"/>
-  <img width="31%" src="assets/elaina-still-2.jpg" alt="elaina 2"/>
-  <img width="31%" src="assets/elaina-still-3.jpg" alt="elaina 3"/>
-</p>
-<p align="center">
-  <img width="31%" src="assets/elaina-still-4.jpg" alt="elaina 4"/>
-  <img width="31%" src="assets/elaina-still-5.jpg" alt="elaina 5"/>
-  <img width="31%" src="assets/elaina-still-6.jpg" alt="elaina 6"/>
-</p>
-<p align="center"><i>bonus versi GIF:</i><br/><img width="200" src="assets/elaina.gif" alt="elaina gif"/></p>
-</details>
-
-<details>
-<summary><b>✧ Tech Stack — klik untuk buka!</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</p>
-</details>
-
-<details>
-<summary><b>🎀 Fun Facts — klik untuk buka!</b></summary>
-<br/>
-
-- 🌙 Night owl — ide terbaik datang tengah malam
-- 🍜 Ditemani mie + musik pas ngoding
-- 🎮 Gamer sekaligus game maker
-- 🐛 Pemburu bug — standar: <i>no bug</i>
-
-</details>
 
 <p align="center">
-  <i>⋆｡‧˚ʚ♡ɞ˚‧｡⋆ thanks for visiting ⋆｡‧˚ʚ♡ɞ˚‧｡⋆</i>
+⛩️ Wibu garis keras — waifu: <b>Elaina</b> (Majo no Tabitabi)<br/>
+🔭 Ngoprek <b>bot WhatsApp & Telegram</b> • 🎮 Bikin game seru-seruan<br/>
+✨ Motto: <i>akurat, work, no bug</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
+### ✨ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,java,git,linux" alt="skills"/>
+</p>
+
+### 📌 Pinned Projects
+
+<p align="center">
