@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img width="320" src="assets/elaina-hd-2.jpg" alt="Elaina"/>
+  <img width="320" src="assets/elaina-hero.svg" alt="Elaina"/>
   <br/><i>⋆ Elaina-chan — Majo no Tabitabi ⋆</i>
 </p>
 
@@ -35,7 +35,7 @@ Ngoprek <b>bot WhatsApp & Telegram</b> · Bikin game seru-seruan<br/>
 </p>
 
 <p align="center">
-  <img width="70%" src="assets/quote-elaina.svg" alt="Elaina quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF6B9D&center=true&vCenter=true&width=700&lines=Aku%20Elaina%2C%20Penyihir%20Abu.;Pengelana%20yang%20berhenti%20mengembara%20bukanlah%20pengelana.;Dunia%20ini%20luas...%20aku%20ingin%20melihat%20semuanya.;Setiap%20perjalanan%20punya%20ceritanya%20sendiri." alt="Elaina quotes"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
